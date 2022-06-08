@@ -1,5 +1,6 @@
 # RedditRAT
-Remote Access Trojan designed to interface with Reddit's API. IN PROGRESS: Many bug fixes and currently only works on Linux Systems. 
+Remote Access Trojan designed to interface with Reddit's API.           IN PROGRESS
+- Many bug fixes and currently only works on Linux Systems. 
 
 # RoadMap
 - Bug Fixes
